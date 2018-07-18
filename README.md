@@ -5,7 +5,7 @@
 
 [Image1 : Title Screen]
 [Image2 : Running Character]
-[Image2 : Jumping Character]
+[Image3 : Jumping Character]
 
 <div>
 <img src="https://github.com/DonggeunJung/NejikoRun/blob/master/Etc/NejikoRun_Capture01.png?raw=true width="400px"></img>
